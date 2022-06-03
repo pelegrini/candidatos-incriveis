@@ -25,29 +25,14 @@ Inspirado no [projeto Awesome](https://awesome.re).
 
 **[`^        voltar ao início        ^`](#)**
 
-- [Joana da Silva](#), **#99 9** - Pré-candidata a senadora na BA, militante do PCB, Prof. da UEFS. 
- <sub>
-    ![PCB](https://img.shields.io/badge/-PCB-red) 
-    ![Twitter](assets/icons8-twitter.svg)
-    ![Instagram](assets/icons8-instagram.svg)
-    ![Facebook](assets/icons8-facebook-novo.svg)
-</sub>
+- [Joana da Silva](#), **#99 9** - Pré-candidata a senadora na BA, militante do PCB, Prof. da UEFS. <sub>![PCB](https://img.shields.io/badge/-PCB-red) ![Twitter](assets/icons8-twitter.svg) ![Instagram](assets/icons8-instagram.svg) ![Facebook](assets/icons8-facebook-novo.svg)</sub>
 
 ### Câmara dos Deputados
 
 **[`^        voltar ao início        ^`](#)**
 
-- [Humberto Leite](#) **#99 99** - Advogado Criminalista. Mestre em Direito pela ASU. Doutorando em Estudos Africanos na UFBA.
-   <sub>
-    ![UP](https://img.shields.io/badge/-UP-black) 
-    ![Twitter](assets/icons8-twitter.svg)
-    ![Instagram](assets/icons8-instagram.svg)
-</sub>
-- [Alberto](#) **#99 88** - Presidente do Sindicato dos Enfermeiros.
-   <sub>
-    ![PCB](https://img.shields.io/badge/-PCB-red)
-    ![Facebook](assets/icons8-facebook-novo.svg)
-    </sub>
+- [Humberto Leite](#) **#99 99** - Advogado Criminalista. Mestre em Direito pela ASU. Doutorando em Estudos Africanos na UFBA. <sub>![UP](https://img.shields.io/badge/-UP-black)![Twitter](assets/icons8-twitter.svg)![Instagram](assets/icons8-instagram.svg)</sub>
+- [Alberto](#) **#99 88** - Presidente do Sindicato dos Enfermeiros. <sub>![PCB](https://img.shields.io/badge/-PCB-red)![Facebook](assets/icons8-facebook-novo.svg)</sub>
 
 
 ## Pernambuco
@@ -56,8 +41,4 @@ Inspirado no [projeto Awesome](https://awesome.re).
 
 **[`^        voltar ao início        ^`](#)**
 
-- [Guilhermina Alves](#) **#99 999** - Pré candidata a Deputada Estadual - Terapeuta Ocupacional e Trabalhadora do SUS.
-  <sub>
-    ![PSOL](https://img.shields.io/badge/-PSOL-orange) 
-    ![Twitter](assets/icons8-twitter.svg)
-  </sub>
+- [Guilhermina Alves](#) **#99 999** - Pré candidata a Deputada Estadual - Terapeuta Ocupacional e Trabalhadora do SUS. <sub>![PSOL](https://img.shields.io/badge/-PSOL-orange) ![Twitter](assets/icons8-twitter.svg)</sub>
