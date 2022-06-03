@@ -26,7 +26,7 @@ Proin eu auctor metus. Sed hendrerit eleifend fringilla. Maecenas mollis luctus 
 
 **[`^        voltar ao início        ^`](#)**
 
-- [Joana da Silva](#) `PCB` **#99 9** - Pré-candidata a senadora na BA, militante do PCB, Prof. da UEFS [![Twitter](assets/twitter-brands.svg)](#) <sub>[twitter](#) | [instagram](#)</sub>
+- [Joana da Silva](#) `PCB` **#99 9** - Pré-candidata a senadora na BA, militante do PCB, Prof. da UEFS <sub>[twitter](#) | [instagram](#)</sub>
 
 ### Câmara dos Deputados
 
