@@ -26,31 +26,20 @@ Proin eu auctor metus. Sed hendrerit eleifend fringilla. Maecenas mollis luctus 
 
 **[`^        voltar ao início        ^`](#)**
 
+- [Joana da Silva](#) `PCB` **#99 9** - Pré-candidata a senadora na BA, militante do PCB, Prof. da UEFS <sub>[twitter](#) | [instagram](#)</sub>
 
 ### Câmara dos Deputados
 
 **[`^        voltar ao início        ^`](#)**
 
-- [Joana da Silva](#) - Pré - candidata a deputada federal na BA, militante do PCB, Sec. Política do Col. Feminista Classista Ana Montenegro, Médica, Prof. da UEFS `MIT` `Go`
-
-
-### Assembléia Legislativa
-
-**[`^        voltar ao início        ^`](#)**
+- [Humberto Leite](#) `UP` **#99 99** - Advogado Criminalista. Mestre em Direito pela ASU. Doutorando em Estudos Africanos na UFBA <sub>[twitter](#) | [instagram](#)</sub>
+- [Alberto](#) `PCB` **#99 88** - Presidente do Sindicato dos Enfermeiros <sub>[instagram](#)</sub>
 
 
 ## Pernambuco
 
-### Senado
-
-**[`^        voltar ao início        ^`](#)**
-
-
-### Câmara dos Deputados
-
-**[`^        voltar ao início        ^`](#)**
-
-
 ### Assembléia Legislativa
 
 **[`^        voltar ao início        ^`](#)**
+
+- [Guilhermina Alves](#) `PSOL` #99 999 - Pré candidata a Deputada Estadual - Terapeuta Ocupacional e Trabalhadora do SUS <sub>[twitter](#) | [instagram](#)</sub>
